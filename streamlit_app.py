@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 from typing import List, Dict
 import base64
-from test import DonutInvoiceParser, InvoiceData
+from Invoice_parser import DonutInvoiceParser, InvoiceData
 
 # Page configuration
 st.set_page_config(
@@ -440,4 +440,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
