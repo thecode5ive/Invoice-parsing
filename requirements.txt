@@ -1,0 +1,14 @@
+torch>=2.0.0
+transformers>=4.30.0
+Pillow>=9.0.0
+PyMuPDF>=1.22.0
+openpyxl>=3.1.0
+streamlit>=1.28.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+accelerate>=0.21.0
+dataclasses-json>=0.5.0
+numpy>=1.24.0
+requests>=2.28.0
+urllib3>=1.26.0
+sentencepiece>=0.2.1
